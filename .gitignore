@@ -89,6 +89,12 @@ ipch/
 *.vsp
 *.vspx
 *.sap
+*.vcxproj
+*.user
+*.filters
+
+# Protected files
+QtTest/secure.cpp
 
 # TFS 2012 Local Workspace
 $tf/
